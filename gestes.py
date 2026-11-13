@@ -12,7 +12,6 @@ import time
 
 import mediapipe as mp
 
-# Noms des gestes (constantes : évite les fautes de frappe dans le reste du code)
 POUCE_LEVE = "Pouce leve"
 POUCE_BAISSE = "Pouce baisse"
 MAIN_OUVERTE = "Main ouverte"
